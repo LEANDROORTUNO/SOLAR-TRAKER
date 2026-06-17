@@ -3,22 +3,3 @@ Este proyecto es un seguidor solar de doble eje desarrollado con ESP32 y MicroPy
 
 ## Link de la simulacion del proyecto realizada en wokwi:
 https://wokwi.com/projects/466380903113060353
-
-## Integrantes del Proyecto:
-- Ortuño Cespedes Leandro Andre
-####
-- Romero Aguilar Joan Matias
-####
-- Cadima Funes Jonathan Fabricio
-####
-- Garcia Torrico Fabio
-####
-- Quiroga Salinas Mateo
-####
-- Alegre Zambrana Sebastian Enrique
-####
-- Rocha Correa Brandon Enrique
-####
-- Humeres Robles Waldo Junior
-####
-
